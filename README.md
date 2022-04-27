@@ -3,3 +3,4 @@ Projeto-Tabelas-Faturamento
 - Foi usado nesse projeto a IDE Pycharm.
 - Foi importado bibliotecas como pandas e win32com.
 
+
