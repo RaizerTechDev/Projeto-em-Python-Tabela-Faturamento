@@ -13,6 +13,5 @@
 🌐 Foi importado bibliotecas como pandas e win32com.
 
 ▶ 😀👀 Bora lá....
-Gostou entra no git e já deixa a 🌟
-
+Gostou, então já deixa a🌟
 
