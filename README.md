@@ -4,7 +4,7 @@
 
  ### Link do Projeto👇
  
- ## https://rafarz76.github.io/Projeto-em-Python-Tabela-Faturamento/
+ ## https://rafarz76dev.github.io/Projeto-em-Python-Tabela-Faturamento/
 
 🌐Desenvolvendo um Projeto Tabela de Vendas com uma ferramenta Python para realização de um relatório e também envio de e-mail.
 
